@@ -1,6 +1,11 @@
 # ImageTranslation
 Image Segmentation and Segmented Image to Real Image (Pixel to Pixel Image Translation): comparing, analysing and using different methods based on NN e.g. pix2pix working mainly with three classes namely sky, ground and objects.
 
+### Use model
+python test.py --dataset dataset --model model --cuda
+###### e.g.:
+CUDA_VISIBLE_DEVICES=1 python3.6 test.py --dataset facades --model checkpoint/facades/netG_model_epoch_200.pth --cuda
+
 ### Input Image, Output Image and Labeled Image respectiv to the following images as table
 Example1
 <p align="center">
