@@ -1,2 +1,22 @@
 # ImageTranslation
 Image Segmentation and Segmented Image to Real Image (Pixel to Pixel Image Translation): comparing, analysing and using different methods based on NN e.g. pix2pix working mainly with three classes namely sky, ground and objects.
+
+### Input Image, Output Image and Labeled Image respectiv to the following images as table
+Example1
+<p align="center">
+  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/input/cmp_b0202.jpg" width="280"/>
+  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/facades/cmp_b0202.jpg" width="280"/>
+  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/gold_standard/cmp_b0202.jpg" width="280"/>
+</p>
+Example2
+<p align="center">
+  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/input/cmp_b0202.jpg" width="280"/>
+  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/facades/cmp_b0203.jpg" width="280"/>
+  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/gold_standard/cmp_b0202.jpg" width="280"/>
+</p>
+Example3
+<p align="center">
+  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/input/cmp_b0202.jpg" width="280"/>
+  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/facades/cmp_b0204.jpg" width="280"/>
+  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/gold_standard/cmp_b0202.jpg" width="280"/>
+</p>
