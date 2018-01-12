@@ -4,19 +4,19 @@ Image Segmentation and Segmented Image to Real Image (Pixel to Pixel Image Trans
 
 Example1
 <p align="center">
-  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/input/cmp_b0202.jpghttps://github.com/ImageSeg/ImageTranslation/blob/master/result/input/cmp_b0202.jpg" width="280"/>
-  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/facades/cmp_b0202.jpg" width="280" title="Input image"/>
-  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/gold_standard/cmp_b0202.jpg" width="280" title="Output image"/>
+  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/input/cmp_b0202.jpg" width="280"/>
+  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/facades/cmp_b0202.jpg" width="280"/>
+  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/gold_standard/cmp_b0202.jpg" width="280"/>
 </p>
 Example2
 <p align="center">
-  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/input/cmp_b0202.jpghttps://github.com/ImageSeg/ImageTranslation/blob/master/result/input/cmp_b0203.jpg" width="280"/>
-  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/facades/cmp_b0203.jpg" width="280" title="Input image"/>
-  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/gold_standard/cmp_b0202.jpg" width="280" title="Output image"/>
+  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/input/cmp_b0202.jpg" width="280"/>
+  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/facades/cmp_b0203.jpg" width="280"/>
+  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/gold_standard/cmp_b0202.jpg" width="280"/>
 </p>
 Example3
 <p align="center">
-  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/input/cmp_b0202.jpghttps://github.com/ImageSeg/ImageTranslation/blob/master/result/input/cmp_b0203.jpg" width="280"/>
-  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/facades/cmp_b0204.jpg" width="280" title="Input image"/>
-  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/gold_standard/cmp_b0202.jpg" width="280" title="Output image"/>
+  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/input/cmp_b0202.jpg" width="280"/>
+  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/facades/cmp_b0204.jpg" width="280"/>
+  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/gold_standard/cmp_b0202.jpg" width="280"/>
 </p>
