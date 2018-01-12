@@ -7,15 +7,3 @@ Example1
   <img src="
 https://github.com/ImageSeg/ImageTranslation/blob/master/result/gold_standard/cmp_b0202.jpg" width="300" title="Output image"/>
 </p>
-Example2
-<p align="center">
-  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/facades/cmp_b0203.jpg" width="300" title="Input image"/>
-  <img src="
-https://github.com/ImageSeg/ImageTranslation/blob/master/result/gold_standard/cmp_b0203.jpg" width="300" title="Output image"/>
-</p>
-Example3
-<p align="center">
-  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/facades/cmp_b0204.jpg" width="300" title="Input image"/>
-  <img src="
-https://github.com/ImageSeg/ImageTranslation/blob/master/result/gold_standard/cmp_b0204.jpg" width="300" title="Output image"/>
-</p>
