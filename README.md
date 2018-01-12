@@ -4,3 +4,7 @@ Image Segmentation and Segmented Image to Real Image (Pixel to Pixel Image Trans
 https://github.com/ImageSeg/ImageTranslation/blob/master/result/facades/cmp_b0202.jpg
 https://github.com/ImageSeg/ImageTranslation/blob/master/result/facades/cmp_b0203.jpg
 https://github.com/ImageSeg/ImageTranslation/blob/master/result/facades/cmp_b0204.jpg
+
+https://github.com/ImageSeg/ImageTranslation/blob/master/result/gold_standard/cmp_b0202.jpg
+https://github.com/ImageSeg/ImageTranslation/blob/master/result/gold_standard/cmp_b0202.jpg
+https://github.com/ImageSeg/ImageTranslation/blob/master/result/gold_standard/cmp_b0202.jpg
