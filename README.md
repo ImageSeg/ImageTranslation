@@ -29,4 +29,5 @@ Example3
 
 Source: <br>
 https://github.com/mrzhu-cool/pix2pix-pytorch <br>
-https://pdfs.semanticscholar.org/d533/c4d9014779178349010f325e8f0f82540da8.pdf
+https://pdfs.semanticscholar.org/d533/c4d9014779178349010f325e8f0f82540da8.pdf <br>
+http://cmp.felk.cvut.cz/~tylecr1/facade/CMP_facade_DB_2013.pdf
