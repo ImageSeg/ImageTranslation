@@ -25,3 +25,8 @@ Example3
   <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/facades/cmp_b0204.jpg" width="280"/>
   <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/gold_standard/cmp_b0202.jpg" width="280"/>
 </p>
+
+
+Source:
+https://github.com/mrzhu-cool/pix2pix-pytorch
+https://pdfs.semanticscholar.org/d533/c4d9014779178349010f325e8f0f82540da8.pdf
