@@ -17,7 +17,7 @@ Example1
 Example2
 <p align="center">
   <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/cityscapes/berlin_000001_000019_leftImg8bit.png" width="280"/>
-  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/cityscapes/berlin_000001000019_leftImg8bit.png" width="280"/>
+  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/cityscapes/berlin_000001_000019_leftImg8bit.png" width="280"/>
   <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/cityscapes/berlin_000001_000019_leftImg8bit.png" width="280"/>
 </p>
 Example3
