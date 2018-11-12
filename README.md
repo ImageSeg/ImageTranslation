@@ -17,14 +17,14 @@ Example1
 Example2
 <p align="center">
   <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/cityscapes/berlin_000001_000019_leftImg8bit.png" width="280"/>
-  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/cityscapes/berlin_000001_000019_leftImg8bit.png" width="280"/>
-  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/cityscapes/berlin_000001_000019_leftImg8bit.png" width="280"/>
+  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/cityscapes/o_berlin_000001_000019_leftImg8bit.png" width="280"/>
+  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/cityscapes/t_berlin_000001_000019_leftImg8bit.png" width="280"/>
 </p>
 Example3
 <p align="center">
   <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/cityscapes/munich_000028_000019_leftImg8bit.png" width="280"/>
-  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/o_cityscapes/munich_000028_000019_leftImg8bit.png" width="280"/>
-  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/t_cityscapes/munich_000028_000019_leftImg8bit.png" width="280"/>
+  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/o_cityscapes/0_munich_000028_000019_leftImg8bit.png" width="280"/>
+  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/t_cityscapes/t_munich_000028_000019_leftImg8bit.png" width="280"/>
 </p>
 
 
