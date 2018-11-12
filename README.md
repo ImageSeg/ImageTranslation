@@ -23,8 +23,8 @@ Example2
 Example3
 <p align="center">
   <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/cityscapes/munich_000028_000019_leftImg8bit.png" width="280"/>
-  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/o_cityscapes/0_munich_000028_000019_leftImg8bit.png" width="280"/>
-  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/t_cityscapes/t_munich_000028_000019_leftImg8bit.png" width="280"/>
+  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/cityscapes/o_munich_000028_000019_leftImg8bit.png" width="280"/>
+  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/cityscapes/t_munich_000028_000019_leftImg8bit.png" width="280"/>
 </p>
 
 
