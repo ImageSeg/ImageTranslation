@@ -10,21 +10,21 @@ CUDA_VISIBLE_DEVICES=1 python3.6 test.py --dataset facades --model checkpoint/fa
 ### Input Image, Output Image and Labeled Image respectiv to the following images as table
 Example1
 <p align="center">
-  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/input/cmp_b0202.jpg" width="280"/>
-  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/facades/cmp_b0202.jpg" width="280"/>
-  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/gold_standard/cmp_b0202.jpg" width="280"/>
+  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/cityscapes/berlin_000000_000019_leftImg8bit.png" width="280"/>
+  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/cityscapes/o_berlin_000000_000019_leftImg8bit.png" width="280"/>
+  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/cityscapes/t_berlin_000000_000019_leftImg8bit.png" width="280"/>
 </p>
 Example2
 <p align="center">
-  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/input/cmp_b0203.jpg" width="280"/>
-  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/facades/cmp_b0203.jpg" width="280"/>
-  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/gold_standard/cmp_b0203.jpg" width="280"/>
+  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/cityscapes/berlin_000000_000019_leftImg8bit.png" width="280"/>
+  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/cityscapes/berlin_000000_000019_leftImg8bit.png" width="280"/>
+  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/cityscapes/berlin_000000_000019_leftImg8bit.png" width="280"/>
 </p>
 Example3
 <p align="center">
-  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/input/cmp_b0204.jpg" width="280"/>
-  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/facades/cmp_b0204.jpg" width="280"/>
-  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/gold_standard/cmp_b0204.jpg" width="280"/>
+  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/cityscapes/munich_000028_000019_leftImg8bit.png" width="280"/>
+  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/o_cityscapes/munich_000028_000019_leftImg8bit.png" width="280"/>
+  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/t_cityscapes/munich_000028_000019_leftImg8bit.png" width="280"/>
 </p>
 
 
