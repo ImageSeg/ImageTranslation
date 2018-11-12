@@ -1,0 +1,28 @@
+Train
+nshimyimana@serv-2103:/novelview/dominique/pix2pix-pytorch_locationsxy$ CUDA_VISIBLE_DEVICES=5 python3.6 train.py --dataset spherical --xy_size 0 --cuda
+nshimyimana@serv-2103:/novelview/dominique/examples/fast_neural_style$ CUDA_DEVICE_ORDER=PCI_BUS_ID CUDA_VISIBLE_DEVICES=1 python3.6 train.py --cuda --norm c_sin
+Metrics
+nshimyimana@serv-2103:/novelview/dominique/examples/fast_neural_style$ CUDA_DEVICE_ORDER=PCI_BUS_ID CUDA_VISIBLE_DEVICES=4 python3.6 validate.py --xy_size 2 --save --rotated 0 --norm linear
+
+
+Continue train or transfer learning
+#continue
+nshimyimana@serv-2103:/novelview/dominique/examples/fast_neural_style$ CUDA_DEVICE_ORDER=PCI_BUS_ID CUDA_VISIBLE_DEVICES=6 python3.6 train.py --cuda --norm c_sin --goon --go_epoch 140
+#transfer learning
+#model musst be renamed to checkpoint/cityscapes/netG_model_epoch_1.pth
+nshimyimana@serv-2103:/novelview/dominique/examples/fast_neural_style$ CUDA_DEVICE_ORDER=PCI_BUS_ID CUDA_VISIBLE_DEVICES=6 python3.6 train.py --cuda --norm c_sin --goon --go_epoch 1
+
+#pix2pix without location map and without fair space
+(python3.6) nshimyimana@serv-2103:/novelview/dominique/pix2pix-pytorch_locationsxy$ CUDA_DEVICE_ORDER=PCI_BUS_ID CUDA_VISIBLE_DEVICES=3 python3.6 train.py --cuda --xy_size 0
+
+##################################################
+(python3.6) nshimyimana@serv-2103:/novelview/dominique/pix2pix-pytorch_locationsxy$ CUDA_DEVICE_ORDER=PCI_BUS_ID CUDA_VISIBLE_DEVICES=3 python3.6 test.py --xy_size 2 --cuda --model linear --it 100 
+
+#pix2pix original
+(python3.6) nshimyimana@serv-2103:/novelview/dominique/pix2pix-pytorch_locationsxy$ CUDA_DEVICE_ORDER=PCI_BUS_ID CUDA_VISIBLE_DEVICES=3 python3.6 test.py --xy_size 0 --m 0 --cuda --model pix2pix --it 100 
+
+
+#Attention:
+validation: image names musst be changed in dataset: just switch commment (vice versa) on both lines and switch at the same time b and b_fair (b and b_original)::
+target = load_img(join(self.sketch_path, self.image_filenames[index][:-15] + 'gtFine_labelIds.png'), self.img_size, rgb=True, rotated=self.rotated, norm=self.norm)
+#target = load_img(join(self.sketch_path, self.image_filenames[index][:-15] + 'gtFine_color.png'), self.img_size, rgb=True, rotated=self.rotated, norm=self.norm)
