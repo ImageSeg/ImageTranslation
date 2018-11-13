@@ -4,8 +4,8 @@ Image Segmentation as Pixel to Pixel Image Translation: comparing, analysing and
 
 ### Use model
 python test.py --dataset dataset --model cityscapes --cuda --morm cycle  --m fair
-###### e.g.:
-CUDA_VISIBLE_DEVICES=1 python3.6 test.py --dataset facades --model checkpoint/facades/netG_model_epoch_200.pth --cuda
+<!-- ###### e.g.:
+CUDA_VISIBLE_DEVICES=1 python3.6 test.py --dataset facades --model checkpoint/facades/netG_model_epoch_200.pth --cuda -->
 
 ### Final output Image, Input Image and coorconv and normalized output Image respectiv to the following images as table
 Example1
