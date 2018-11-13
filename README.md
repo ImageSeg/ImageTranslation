@@ -7,7 +7,7 @@ python test.py --dataset dataset --model model --cuda --morm cycle  --m fair
 ###### e.g.:
 CUDA_VISIBLE_DEVICES=1 python3.6 test.py --dataset facades --model checkpoint/facades/netG_model_epoch_200.pth --cuda
 
-### Input Image, Output Image and Labeled Image respectiv to the following images as table
+### Final output Image, Input Image and coorconv and normalized output Image respectiv to the following images as table
 Example1
 <p align="center">
   <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/cityscapes/berlin_000000_000019_leftImg8bit.png" width="280"/>
@@ -17,14 +17,14 @@ Example1
 Example2
 <p align="center">
   <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/cityscapes/berlin_000001_000019_leftImg8bit.png" width="280"/>
-  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/cityscapes/berlin_000001_000019_leftImg8bit.png" width="280"/>
-  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/cityscapes/berlin_000001_000019_leftImg8bit.png" width="280"/>
+  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/cityscapes/o_berlin_000001_000019_leftImg8bit.png" width="280"/>
+  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/cityscapes/t_berlin_000001_000019_leftImg8bit.png" width="280"/>
 </p>
 Example3
 <p align="center">
   <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/cityscapes/munich_000028_000019_leftImg8bit.png" width="280"/>
-  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/o_cityscapes/munich_000028_000019_leftImg8bit.png" width="280"/>
-  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/t_cityscapes/munich_000028_000019_leftImg8bit.png" width="280"/>
+  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/cityscapes/o_munich_000028_000019_leftImg8bit.png" width="280"/>
+  <img src="https://github.com/ImageSeg/ImageTranslation/blob/master/result/cityscapes/t_munich_000028_000019_leftImg8bit.png" width="280"/>
 </p>
 
 
